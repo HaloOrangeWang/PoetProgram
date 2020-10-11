@@ -1,0 +1,38 @@
+# ignore python project files
+.idea/
+__pycache__/
+
+# ignore c++ project files
+.vs/
+x64/
+
+# ignore library files
+jquery-3.5.1.js
+echarts.js
+jsonlab-2.0/
+*.dll
+
+# ignore data, video and image
+data/
+pics/
+pics_big/
+pics_bk/
+*.fig
+*.png
+output/
+*.mp4
+Pr/
+Test/
+!15. PythonRPG/imgs/001-Blue01.png
+!15. PythonRPG/imgs/001-Fighter01_big.png
+!15. PythonRPG/imgs/001-Grassland01.png
+!15. PythonRPG/imgs/066-Beast04.png
+!Origin/Pounds.png
+
+# others
+tx2.txt
+dist.txt
+Halo_O_Wang的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯_ Bilibili.html
+Halo_O_Wang的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯_ Bilibili_files
+参考资料/
+完成版/
